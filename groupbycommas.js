@@ -11,7 +11,7 @@ for(var i=0;i<a.length;i++){
     }
     
     ar.push(a[i]);
-    j+;
+    j++;
     
 }
 ar.reverse();
