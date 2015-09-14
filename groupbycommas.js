@@ -14,7 +14,7 @@ for(var i=0;i<a.length;i++){
     j++;
     
 }
-
+ar.reverse();
 var st = ar.join('');
 return st;
 }
