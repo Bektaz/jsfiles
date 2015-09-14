@@ -1,3 +1,5 @@
+
+///solution for Issue #6
 function DashInsert(num) { 
 
 var a = num.toString();
