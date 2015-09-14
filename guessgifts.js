@@ -7,7 +7,7 @@ for(var i in wishlist){
         
         if(wishlist[i].size===presents[j].size && wishlist[i].clatters===presents[j].clatters && wishlist[i].weight===presents[j].weight){
             
-            ar.push(wishlist[i]);
+            ar.push(wishlist[i].name);
         }
     }
     
