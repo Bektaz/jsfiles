@@ -16,4 +16,4 @@ for(var i in ar){
    var st = ar.join(''); 
 }
   return st;
-}
+}function DashInsert(45526323);
